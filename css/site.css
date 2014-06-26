@@ -1,0 +1,34 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+/* heading */
+h3.muted a {
+  text-decoration: none;
+  color: #999;
+}
+
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px;
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+
+div.content img {
+  display: block;
+  margin: 30px auto;
+}
+
+div.content h4, div.content h5 {
+  margin-top: 20px;
+}
+
+div.event {
+  margin-bottom: 60px;
+}
